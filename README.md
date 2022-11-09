@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codescarx (Oscar Xu)
+- 👋 Hi, I’m @codescarx
 - 🌱 I’m studying CS at UWaterloo
 - 💻 Check out some of my side projects, like my [graphics engine](https://github.com/codescarx/SanctuaryEngine)
 
